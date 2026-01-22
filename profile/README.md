@@ -3,9 +3,9 @@
 Analysis for the **River Si Big Data** project with funding from the **Powell Center** and **NSF ULTRA**.
 
 This is a continuation of the silica working group project started under the NCEAS LTER organization:
+- [LTER GitHub Organization](https://github.com/lter) - Original host organization
 - [lterwg-silica-data](https://github.com/lter/lterwg-silica-data) - Original data repository
 - [lterwg-silica-spatial](https://github.com/lter/lterwg-silica-spatial) - Spatial analysis repository
-- [LTER GitHub Organization](https://github.com/lter) - Original host organization
 
 ## About
 
