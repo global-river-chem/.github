@@ -1,11 +1,16 @@
 # Global River Chemistry
 
-Research and data analysis for global river chemistry.
+Analysis for the **River Si Big Data** project with funding from the **Powell Center** and **NSF ULTRA**.
 
-## Projects
+This is a continuation of the silica working group project started under the NCEAS LTER organization:
+- [lterwg-silica-data](https://github.com/lter/lterwg-silica-data) - Original data repository
+- [lterwg-silica-spatial](https://github.com/lter/lterwg-silica-spatial) - Spatial analysis repository
+- [LTER GitHub Organization](https://github.com/lter) - Original host organization
 
-This organization houses repositories for analyzing river chemistry data using R and Python.
+## About
 
-## Getting Started
+This organization houses repositories for analyzing global river chemistry data using R and Python as part of ongoing research efforts.
 
-Check out our repositories to explore ongoing analyses and tools.
+## Repositories
+
+Browse our repositories to explore data analysis workflows, tools, and research outputs.
