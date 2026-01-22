@@ -1,6 +1,6 @@
 # Global River Chemistry
 
-Analysis for the **River Si Big Data** project with funding from the **USGS Powell Center** and **NSF ULTRA**.
+Analysis for the **River Si Big Data** project with funding from the **John Wesley Powell Center for Analysis and Synthesis** and **NSF Using Long-Term Research Associated Data (ULTRA-Data)**.
 
 This is a continuation of the silica working group project started under the NCEAS LTER organization:
 - [LTER GitHub Organization](https://github.com/lter) - Original host organization
